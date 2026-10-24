@@ -1,0 +1,2 @@
+comparison,n,bootstrap_reps,difference_multi_minus_single,ci_lower,ci_upper,ci_excludes_zero
+Common sample: multi-year minus single-year,1027,1000,0.03184453781957579,-0.008101543990441898,0.07594521112740843,False

@@ -1,0 +1,22 @@
+
+# Raw PSID data
+data-raw/
+
+# Large intermediate datasets
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# System files
+.DS_Store
